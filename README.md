@@ -1,1 +1,1 @@
-see: 
+see: http://spring-guides.marcuschiu.com/spring-data/hypersql/spring-boot-hypersql-embedded-autoconfigure-datasource.html
